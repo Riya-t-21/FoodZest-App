@@ -1,9 +1,1 @@
-# FoodZest
-
-Food Ordering app for Internshala Android Development Training
-
-Url and token were provided by internshala itself.
-
-NOTE:- **Replace your token in "Android->app->res->values->strings"**
-
-**Refer to Screenshots folder for UI**
+![RestaurantMenu](https://github.com/Riya-t-21/FoodZest-App/assets/102308368/b2d3b4ec-8562-4ba3-b926-ba4c3723f01d)
